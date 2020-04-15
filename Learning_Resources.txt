@@ -19,7 +19,12 @@ Web learning:
 4. https://www.coursera.org/
 5. https://www.lem.ma/home
 
-
+Particular courses:
+ Linear Algebra:
+ Differential Equations:
+ Signal Processing:
+ Circuit Design:
+ Computer Architecture:
 
 ebooks:
 1. https://pdfdrive.com/
