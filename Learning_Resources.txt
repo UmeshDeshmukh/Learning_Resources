@@ -1,0 +1,28 @@
+Embedded/Microcontroller:
+1. https://mcuoneclipse.com/
+2. https://www.state-machine.com/quickstart/
+3. https://www.embeddedrelated.com/
+
+Verilog/FPGA:
+1. https://zipcpu.com/
+2. https://www.fpgarelated.com/
+
+Signal Processing:
+1. http://www.fourierandwavelets.org/ 
+2. https://allsignalprocessing.com/
+3. https://www.dsprelated.com/
+
+Web learning:
+1. https://ocw.mit.edu/
+2. https://www.edx.org/
+3. https://nptel.ac.in/
+4. https://www.coursera.org/
+5. https://www.lem.ma/home
+
+
+
+ebooks:
+1. https://pdfdrive.com/
+2. 
+
+
