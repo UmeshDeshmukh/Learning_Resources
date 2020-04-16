@@ -3,9 +3,10 @@ Embedded/Microcontroller:
 2. https://www.state-machine.com/quickstart/
 3. https://www.embeddedrelated.com/
 
-Verilog/FPGA:
+Verilog/HDL/FPGA:
 1. https://zipcpu.com/
 2. https://www.fpgarelated.com/
+3. https://rocketboards.org/
 
 Signal Processing:
 1. http://www.fourierandwavelets.org/ 
@@ -26,8 +27,14 @@ Particular courses:
  Circuit Design:
  Computer Architecture:
 
-ebooks:
+eBooks/Papers:
 1. https://pdfdrive.com/
 2. http://www.freebookspot.es/
+3. https://arxiv.org/
+
+Open source projects:
+1. https://www.apertus.org/
+2. 
+
 
 
