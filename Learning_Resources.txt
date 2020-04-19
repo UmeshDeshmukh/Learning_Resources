@@ -26,6 +26,8 @@ Particular courses:
  Signal Processing:
  Circuit Design:
  Computer Architecture:
+   https://www.nand2tetris.org/
+   https://computationstructures.org/
 
 eBooks/Papers:
 1. https://unglue.it/
