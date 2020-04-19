@@ -39,7 +39,8 @@ eBooks/Papers:
 Open source projects:
 1. https://www.apertus.org/
 2. https://xiph.org/
-3.
+3. https://opentitan.org/
+4. 
 
 
 
