@@ -28,13 +28,16 @@ Particular courses:
  Computer Architecture:
 
 eBooks/Papers:
-1. https://pdfdrive.com/
-2. http://www.freebookspot.es/
-3. https://arxiv.org/
+1. https://unglue.it/
+2. https://arxiv.org/
+3. https://pdfdrive.com/
+4. http://www.freebookspot.es/
+
 
 Open source projects:
 1. https://www.apertus.org/
-2. 
+2. https://xiph.org/
+3.
 
 
 
