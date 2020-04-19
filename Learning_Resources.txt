@@ -22,6 +22,7 @@ Web learning:
 
 Particular courses:
  Linear Algebra:
+   http://linear.ups.edu/
  Differential Equations:
  Signal Processing:
  Circuit Design:
