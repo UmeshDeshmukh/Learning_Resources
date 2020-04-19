@@ -42,7 +42,8 @@ Open source projects:
 1. https://www.apertus.org/
 2. https://xiph.org/
 3. https://opentitan.org/
-4. 
+4. https://www.openhwgroup.org/
+5. 
 
 
 
