@@ -18,7 +18,8 @@ Web learning:
 2. https://www.edx.org/
 3. https://nptel.ac.in/
 4. https://www.coursera.org/
-5. https://www.lem.ma/home
+5. https://www.khanacademy.org/
+6. https://www.lem.ma/home
 
 Particular courses:
  Linear Algebra:
