@@ -4,7 +4,7 @@ Embedded/Microcontroller:
 3. https://www.embeddedrelated.com/
 4.
 
-Verilog/HDL/FPGA:
+Verilog/HDL/FPGA/SoC:
 1. https://zipcpu.com/
 2. https://www.fpgarelated.com/
 3. https://rocketboards.org/
