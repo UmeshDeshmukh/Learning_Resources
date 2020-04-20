@@ -2,16 +2,19 @@ Embedded/Microcontroller:
 1. https://mcuoneclipse.com/
 2. https://www.state-machine.com/quickstart/
 3. https://www.embeddedrelated.com/
+4.
 
 Verilog/HDL/FPGA:
 1. https://zipcpu.com/
 2. https://www.fpgarelated.com/
 3. https://rocketboards.org/
+4.
 
 Signal Processing:
 1. http://www.fourierandwavelets.org/ 
 2. https://allsignalprocessing.com/
 3. https://www.dsprelated.com/
+4.
 
 Web learning:
 1. https://ocw.mit.edu/
@@ -20,6 +23,7 @@ Web learning:
 4. https://www.coursera.org/
 5. https://www.khanacademy.org/
 6. https://www.lem.ma/home
+7.
 
 Particular courses:
  Linear Algebra:
@@ -36,7 +40,7 @@ eBooks/Papers:
 2. https://arxiv.org/
 3. https://pdfdrive.com/
 4. http://www.freebookspot.es/
-
+5.
 
 Open source projects:
 1. https://www.apertus.org/
@@ -45,12 +49,15 @@ Open source projects:
 4. https://www.openhwgroup.org/
 5. 
 
-
-
 YouTube channels:
 1. https://www.youtube.com/user/EEVblog
 2. https://www.youtube.com/user/TheSignalPathBlog
 3. https://www.youtube.com/user/w2aew
 4. https://www.youtube.com/user/bkraz333/
+5.
 
-
+Project Blog/Website:
+1. https://hackaday.com/
+2. http://www.rowetel.com/
+3. https://www.hackster.io/
+4. 
