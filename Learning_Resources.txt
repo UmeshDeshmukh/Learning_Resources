@@ -60,4 +60,5 @@ Project Blog/Website:
 1. https://hackaday.com/
 2. http://www.rowetel.com/
 3. https://www.hackster.io/
-4. 
+4. http://dangerousprototypes.com/blog/
+5. 
