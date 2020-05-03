@@ -62,3 +62,7 @@ Project Blog/Website:
 3. https://www.hackster.io/
 4. http://dangerousprototypes.com/blog/
 5. 
+
+Open Souce Tools:
+1. PCB design-> https://www.kicad-pcb.org/
+2. 
