@@ -65,4 +65,5 @@ Project Blog/Website:
 
 Open Souce Tools:
 1. PCB design-> https://www.kicad-pcb.org/
-2. 
+2. Verilog-to-Bitstream FPGA synthesis flow-> https://symbiflow.github.io/
+3. 
