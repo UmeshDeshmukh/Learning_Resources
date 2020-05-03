@@ -14,7 +14,8 @@ Signal Processing:
 1. http://www.fourierandwavelets.org/ 
 2. https://allsignalprocessing.com/
 3. https://www.dsprelated.com/
-4.
+4. https://liquidsdr.org/
+5.
 
 Web learning:
 1. https://ocw.mit.edu/
