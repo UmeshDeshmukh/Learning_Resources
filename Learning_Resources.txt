@@ -50,7 +50,8 @@ Open source projects:
 2. https://xiph.org/
 3. https://opentitan.org/
 4. https://www.openhwgroup.org/
-5. 
+5. https://www.lowrisc.org/
+6. 
 
 YouTube channels:
 1. https://www.youtube.com/user/EEVblog
@@ -69,4 +70,5 @@ Project Blog/Website:
 Open Souce Tools:
 1. PCB design-> https://www.kicad-pcb.org/
 2. Verilog-to-Bitstream FPGA synthesis flow-> https://symbiflow.github.io/
-3. 
+3. RTL2GDS flow-> https://theopenroadproject.org/
+4. 
