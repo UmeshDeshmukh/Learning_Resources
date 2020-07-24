@@ -17,7 +17,8 @@ Signal Processing:
 4. https://liquidsdr.org/
 5. http://www.dspguide.com/
 6. https://dspguru.com/
-7. 
+7. https://dspillustrations.com/
+8.
 
 Web learning:
 1. https://ocw.mit.edu/
