@@ -38,6 +38,8 @@ Particular courses:
  Computer Architecture:
    https://www.nand2tetris.org/
    https://computationstructures.org/
+ Applied Time Series Analysis:
+   https://www.youtube.com/channel/UCcpPRnXjicepDHvJgx0OpDQ
 
 eBooks/Papers:
 1. https://unglue.it/
