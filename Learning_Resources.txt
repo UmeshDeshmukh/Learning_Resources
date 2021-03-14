@@ -76,4 +76,5 @@ Open Souce Tools:
 1. PCB design-> https://www.kicad-pcb.org/
 2. Verilog-to-Bitstream FPGA synthesis flow-> https://symbiflow.github.io/
 3. RTL2GDS flow-> https://theopenroadproject.org/
-4. 
+4. Filter Design tool-> https://github.com/chipmuenk/pyfda
+5.
