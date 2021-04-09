@@ -3,7 +3,7 @@ Python Libraries
 1.Audio- PyAudio
 2.wav file- wave
 3.Array/Matrices - Numpy
-4.Scientific Computing - SciPy
+4.Scientific Computing, DSP,Linear Algebra - SciPy
 5.Matplotlib - Plot, Graph
 6.Scitkit-learn - Machine Learning
 7.Graphical User Interface- TKinter
