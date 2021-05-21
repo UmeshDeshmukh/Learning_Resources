@@ -4,7 +4,7 @@ Python Libraries
 2.wav file- wave
 3.Array/Matrices - Numpy
 4.Scientific Computing, DSP,Linear Algebra - SciPy
-5.Matplotlib - Plot, Graph
+5.Plot, Graph - Matplotlib 
 6.Scitkit-learn - Machine Learning
 7.Graphical User Interface- TKinter
 8.Optimization- Gekko
