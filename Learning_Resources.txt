@@ -47,7 +47,8 @@ eBooks/Papers:
 2. https://arxiv.org/
 3. https://pdfdrive.com/
 4. http://www.freebookspot.es/
-5.
+5. https://www.dsprelated.com/freebooks.php
+6.
 
 Open source projects:
 1. https://www.apertus.org/
