@@ -62,7 +62,8 @@ Open source projects:
 4. https://www.openhwgroup.org/
 5. https://www.lowrisc.org/
 6. https://opencores.org
-7.
+7. https://www.librecores.org/
+8.
 
 YouTube channels:
 1. https://www.youtube.com/user/EEVblog
