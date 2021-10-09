@@ -8,7 +8,12 @@ Verilog/HDL/FPGA/SoC:
 1. https://zipcpu.com/
 2. https://www.fpgarelated.com/
 3. https://rocketboards.org/
-4.
+4. https://projectf.io/
+5. https://www.nandland.com/
+6. https://www.asic-world.com/
+7. https://www.fpga4fun.com/
+8. http://www.zynqbook.com/
+9. 
 
 Signal Processing:
 1. http://www.fourierandwavelets.org/ 
