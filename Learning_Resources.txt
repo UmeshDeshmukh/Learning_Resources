@@ -24,7 +24,8 @@ Signal Processing:
 6. https://dspguru.com/
 7. https://dspillustrations.com/
 8. https://www.gaussianwaves.com
-9.
+9. http://spatialaudio.net/
+10.
 
 Web learning:
 1. https://ocw.mit.edu/
