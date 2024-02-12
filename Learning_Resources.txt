@@ -1,8 +1,9 @@
-Embedded/Microcontroller:
+Embedded/Microcontroller/RTOS:
 1. https://mcuoneclipse.com/
 2. https://www.state-machine.com/quickstart/
 3. https://www.embeddedrelated.com/
-4.
+4. https://blog.feabhas.com/ :synchronization mutex,semaphore
+5. 
 
 Verilog/HDL/FPGA/SoC:
 1. https://zipcpu.com/
@@ -54,7 +55,8 @@ eBooks/Papers:
 3. https://pdfdrive.com/
 4. http://www.freebookspot.es/
 5. https://www.dsprelated.com/freebooks.php
-6.
+6. https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
+7. 
 
 Open source projects:
 1. https://www.apertus.org/
@@ -64,7 +66,7 @@ Open source projects:
 5. https://www.lowrisc.org/
 6. https://opencores.org
 7. https://www.librecores.org/
-8.
+8. https://www.sofproject.org/
 
 YouTube channels:
 1. https://www.youtube.com/user/EEVblog
