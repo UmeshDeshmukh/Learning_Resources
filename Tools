@@ -1,0 +1,9 @@
+1. Printed Circuit Board
+    KiCad
+2. Circuit Simulation
+    LTspice
+    ngspice
+3. Debug
+    gdb
+    openOCD
+    orbuculum
