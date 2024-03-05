@@ -1,0 +1,6 @@
+1. Common multithreading problems and their fixes
+    producer-consumer problem https://www.zephyrproject.org/common-multithreading-problems-and-their-fixes/
+    
+2. Floating Point 
+    Cortex-M4F https://mcuoneclipse.com/2019/03/29/be-aware-floating-point-operations-on-arm-cortex-m4f/
+    https://www.em-company.fr/blog/index.php/2017/11/08/cortexm4-fp-optimisation/
