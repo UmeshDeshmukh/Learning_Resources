@@ -1,6 +1,10 @@
 1. Common multithreading problems and their fixes
-    producer-consumer problem https://www.zephyrproject.org/common-multithreading-problems-and-their-fixes/
-    
+    https://www.zephyrproject.org/common-multithreading-problems-and-their-fixes/
+    https://www.zephyrproject.org/common-multithreading-problems-and-their-fixes-part-2-producers-consumers-problem/
+    https://www.zephyrproject.org/common-multithreading-problems-and-their-fixes-part-3/
+    https://www.zephyrproject.org/common-multithreading-problems-and-their-fixes-part-4/
+
 2. Floating Point 
+   Use CONFIG_FPU to enable/disable FPU on zephyr rtos.
     Cortex-M4F https://mcuoneclipse.com/2019/03/29/be-aware-floating-point-operations-on-arm-cortex-m4f/
     https://www.em-company.fr/blog/index.php/2017/11/08/cortexm4-fp-optimisation/
